@@ -16,6 +16,38 @@ form label{
     margin-bottom: 20px;
     width: 50%;
 }
+.enviar{
+    width: 40%;
+    padding: 15px 0px;
+    background: rgb(147, 19, 10);
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    transition: 1s all ;
+    cursor: pointer;
+}
+.enviar:hover{
+    background-color: rgb(74, 19 , 10);
+    transform: scale(1.2);
+}
+.tabela-horarios{
+    margin: 20px 0 40px 0;
+    width: 40%;
+
+}
+.tabela-horarios thead{
+    background: grey;
+    color: white;
+    font-weight: bold;
+}
+.tabela-horarios td, .tabela-horarios th{
+border: solid 1px black;
+padding: 0 15px;
+vertical-align: middle;
+}
+
 /*estilizar do formato que preferirem coisas que vimos anteriormente 
 , borda , fonte padrão, tamanho que quiser, bolder etc...
 */

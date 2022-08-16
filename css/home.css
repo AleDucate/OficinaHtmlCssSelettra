@@ -5,9 +5,6 @@ body main{
 .banner{
     width: 100%;
 }
-.texto-centralizado{
-    text-align: center;      
-}
 main p{
     padding-left: 20px;
 }
@@ -28,4 +25,16 @@ main ul{
 .imagem-beneficios{
     width: 35%;
 }
-
+.sobre{
+    background-color: yellow;
+    text-align: center;
+}
+.sobre h1{
+font-weight: bold;
+font-size: 25px;
+margin-bottom: 20px;
+margin: 20px auto;
+}
+.beneficios{
+    
+}
