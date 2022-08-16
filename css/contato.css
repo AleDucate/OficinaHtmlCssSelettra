@@ -8,9 +8,9 @@ form{
 form label{
     display: block;
     font-size: 20px;
-    padding: 10px;
+    margin-bottom: 10px;
 }
-form input{
+.input-padrao{
     display: block;
     padding: 10px 25px;
     margin-bottom: 20px;
